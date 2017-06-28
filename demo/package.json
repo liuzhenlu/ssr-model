@@ -1,7 +1,7 @@
 {
-  "name": "vue-doubanMovieSSR-2.0",
+  "name": "vueSSR-2.0",
   "description": "A Vue.js project",
-  "author": "monkeyWangs",
+  "author": "lzl",
   "private": true,
   "scripts": {
     "dev": "node server",
